@@ -62,10 +62,10 @@ namespace SendEmailTask
                 emailComponent.EmailMessage = GetVerificationEmailBody(user);
                 emailComponent.Subject = "Cusjo - Verification Email";
                 emailComponent.ToAddress = user.UserEmail;
-                emailComponent.CcAddress = "abhinandan_jaisawal@outlook.com";
-                emailComponent.FromAddress = "abhinandan.jaisawal0508@gmail.com";
-                emailComponent.UserName = "abhinandan.jaisawal0508@gmail.com";
-                emailComponent.Password = "ranju@9006";
+                emailComponent.CcAddress = "";
+                emailComponent.FromAddress = "";
+                emailComponent.UserName = "";
+                emailComponent.Password = "";
                 emailComponent.SendEmail();
             }
             catch (Exception ex)
