@@ -1,0 +1,51 @@
+﻿@model IEnumerable<CusjoTestProject.Models.User>
+<p>
+   Registered User Access Level
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.UserFirstName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UserLastName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UserEmail)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AccessLevel)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.IsVerifiedUser)
+        </th>
+        <th>
+            @Html.Label("Action");
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.UserFirstName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.UserLastName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.UserEmail)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AccessLevel)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.IsVerifiedUser)
+        </td>
+        <td>
+            @Html.ActionLink("Edit Access", "UpdateAccess", "Admin", new { Id = item.UserId},  null)
+        </td>
+    </tr>
+}
+
+</table>

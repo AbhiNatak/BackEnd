@@ -1,0 +1,17 @@
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\SendEmailTask\bin\Release\SendEmailTask.exe.config
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\SendEmailTask\bin\Release\SendEmailTask.exe
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\SendEmailTask\bin\Release\SendEmailTask.pdb
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\SendEmailTask\bin\Release\CusjoDataAccessLayer.dll
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\SendEmailTask\bin\Release\CusjoInterface.dll
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\SendEmailTask\bin\Release\CusjoTestBusinessLayer.dll
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\SendEmailTask\bin\Release\EntityFramework.dll
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\SendEmailTask\bin\Release\CusjoDataAccessLayer.pdb
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\SendEmailTask\bin\Release\CusjoDataAccessLayer.dll.config
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\SendEmailTask\bin\Release\CusjoInterface.pdb
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\SendEmailTask\bin\Release\CusjoTestBusinessLayer.pdb
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\SendEmailTask\bin\Release\EntityFramework.xml
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\SendEmailTask\obj\Release\SendEmailJob.csprojAssemblyReference.cache
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\SendEmailTask\obj\Release\SendEmailJob.csproj.CoreCompileInputs.cache
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\SendEmailTask\obj\Release\SendEmailJob.csproj.CopyComplete
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\SendEmailTask\obj\Release\SendEmailTask.exe
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\SendEmailTask\obj\Release\SendEmailTask.pdb

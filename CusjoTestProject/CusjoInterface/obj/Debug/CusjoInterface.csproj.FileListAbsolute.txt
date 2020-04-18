@@ -1,0 +1,11 @@
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\CusjoInterface\bin\Debug\CusjoInterface.dll
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\CusjoInterface\bin\Debug\CusjoInterface.pdb
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\CusjoInterface\obj\Debug\CusjoInterface.csproj.CoreCompileInputs.cache
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\CusjoInterface\obj\Debug\CusjoInterface.dll
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\CusjoInterface\obj\Debug\CusjoInterface.pdb
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\CusjoInterface\bin\Debug\CusjoInterface.dll.config
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\CusjoInterface\bin\Debug\EntityFramework.dll
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\CusjoInterface\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\CusjoInterface\bin\Debug\EntityFramework.xml
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\CusjoInterface\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\CusjoInterface\obj\Debug\CusjoInterface.csproj.CopyComplete

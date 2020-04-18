@@ -1,0 +1,12 @@
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\CusjoTestBusinessLayer\bin\Debug\CusjoTestBusinessLayer.dll
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\CusjoTestBusinessLayer\bin\Debug\CusjoTestBusinessLayer.pdb
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\CusjoTestBusinessLayer\obj\Debug\CusjoTestBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\CusjoTestBusinessLayer\obj\Debug\CusjoTestBusinessLayer.dll
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\CusjoTestBusinessLayer\obj\Debug\CusjoTestBusinessLayer.pdb
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\CusjoTestBusinessLayer\bin\Debug\CusjoTestBusinessLayer.dll.config
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\CusjoTestBusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\CusjoTestBusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\CusjoTestBusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\CusjoTestBusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\CusjoTestBusinessLayer\obj\Debug\CusjoTestBusinessLayer.csproj.CopyComplete
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\CusjoTestBusinessLayer\obj\Debug\CusjoTestBusinessLayer.csprojAssemblyReference.cache

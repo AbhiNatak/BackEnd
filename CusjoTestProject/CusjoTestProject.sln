@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CusjoTestUI", "CusjoTestProject\CusjoTestUI.csproj", "{D6132992-8370-4762-BAFB-D982BFC1ABC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendEmailJob", "SendEmailTask\SendEmailJob.csproj", "{3A19F593-1721-47B9-9D60-7D14B8A31F4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CusjoTestBusinessLayer", "CusjoTestBusinessLayer\CusjoTestBusinessLayer.csproj", "{00DB95C9-4FDE-4117-A4B9-E661E12CB317}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CusjoInterface", "CusjoInterface\CusjoInterface.csproj", "{6B03DD54-5AAB-481E-8647-208123BDFC4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CusjoDataAccessLayer", "CusjoDataAccessLayer\CusjoDataAccessLayer.csproj", "{3CD65C0D-AE89-46B7-9249-64AD4A0709FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CusJoRestAPI", "CusJoRestAPI\CusJoRestAPI.csproj", "{14C65C06-4F05-47BD-B3C1-E50DDBAB9521}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6132992-8370-4762-BAFB-D982BFC1ABC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6132992-8370-4762-BAFB-D982BFC1ABC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6132992-8370-4762-BAFB-D982BFC1ABC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6132992-8370-4762-BAFB-D982BFC1ABC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A19F593-1721-47B9-9D60-7D14B8A31F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A19F593-1721-47B9-9D60-7D14B8A31F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A19F593-1721-47B9-9D60-7D14B8A31F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A19F593-1721-47B9-9D60-7D14B8A31F4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00DB95C9-4FDE-4117-A4B9-E661E12CB317}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00DB95C9-4FDE-4117-A4B9-E661E12CB317}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00DB95C9-4FDE-4117-A4B9-E661E12CB317}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00DB95C9-4FDE-4117-A4B9-E661E12CB317}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B03DD54-5AAB-481E-8647-208123BDFC4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B03DD54-5AAB-481E-8647-208123BDFC4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B03DD54-5AAB-481E-8647-208123BDFC4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B03DD54-5AAB-481E-8647-208123BDFC4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CD65C0D-AE89-46B7-9249-64AD4A0709FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CD65C0D-AE89-46B7-9249-64AD4A0709FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CD65C0D-AE89-46B7-9249-64AD4A0709FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CD65C0D-AE89-46B7-9249-64AD4A0709FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14C65C06-4F05-47BD-B3C1-E50DDBAB9521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14C65C06-4F05-47BD-B3C1-E50DDBAB9521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14C65C06-4F05-47BD-B3C1-E50DDBAB9521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14C65C06-4F05-47BD-B3C1-E50DDBAB9521}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D26FB1A-712F-43AD-B034-99F9C6F1DA2E}
+	EndGlobalSection
+EndGlobal

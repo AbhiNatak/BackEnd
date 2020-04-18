@@ -1,0 +1,12 @@
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\CusjoDataAccessLayer\bin\Debug\CusjoDataAccessLayer.dll
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\CusjoDataAccessLayer\bin\Debug\CusjoDataAccessLayer.pdb
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\CusjoDataAccessLayer\obj\Debug\CusjoDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\CusjoDataAccessLayer\obj\Debug\CusjoDataAccessLayer.dll
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\CusjoDataAccessLayer\obj\Debug\CusjoDataAccessLayer.pdb
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\CusjoDataAccessLayer\bin\Debug\CusjoDataAccessLayer.dll.config
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\CusjoDataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\CusjoDataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\CusjoDataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\CusjoDataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\CusjoDataAccessLayer\obj\Debug\CusjoDataAccessLayer.csproj.CopyComplete
+C:\Users\abhin\Desktop\Learning\Learning\CusjoTestProject\CusjoDataAccessLayer\obj\Debug\CusjoDataAccessLayer.csprojAssemblyReference.cache

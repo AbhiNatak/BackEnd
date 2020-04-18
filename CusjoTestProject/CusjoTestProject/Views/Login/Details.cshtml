@@ -1,0 +1,13 @@
+﻿@model CusjoTestProject.Models.User
+
+@{
+    ViewBag.Title = Session["UserName"];
+}
+<div>
+    <hr />
+    <div class="dl-horizontal">
+        Hello <b> @Session["UserName"] </b> <br>
+        Welcome To CusJo.
+    </div>
+    <hr />
+</div>
