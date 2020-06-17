@@ -11,6 +11,7 @@ using System.Data.Entity;
 
 namespace SendEmailTask
 {
+    // Test comment
     class Program
     {
         static void Main(string[] args)
